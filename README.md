@@ -29,3 +29,5 @@ Don't forget to start your local mongo before starting app.
 ---
 
 2013 (c) likeastore.com
+
+Nice Job. Thanks!
